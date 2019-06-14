@@ -5,7 +5,6 @@
     "test": {
         "id": 1,
         "title": "test",
-        "description": "some text"
     },
     "data": [
         {
