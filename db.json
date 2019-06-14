@@ -2,6 +2,14 @@
     "statusCode": 200,
     "isSuccess": true,
     "message": null,
+    "test": {
+        "id": 1,
+        "title": "test",
+        "description": "some text"
+        "object": {
+            "innerProperty": 1
+        }
+    },
     "data": [
         {
             "wellId": 2,
