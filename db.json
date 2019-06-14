@@ -5,7 +5,7 @@
     "test": {
         "id": 1,
         "title": "test",
-        "description": "some text"
+        "description": "some text",
         "object": {
             "innerProperty": 1
         }
